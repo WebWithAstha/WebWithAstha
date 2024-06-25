@@ -1,17 +1,13 @@
-<h1 align="center">Hello there, I'm Astha Lodhi</h1>
+<img src="https://ik.imagekit.io/b8twhzei3r/j.gif?updatedAt=1719305541590"/>
 
 ###
 
-<p align="left">A versatile developer with expertise in both backend and frontend technologies. I excel in backend development using Node.js, Express.js, and MongoDB to build robust and scalable APIs and databases. Currently expanding my proficiency in frontend development with a focus on mastering React.js for creating dynamic and interactive user interfaces.</p>
+<p align="center">A versatile developer with expertise in both backend and frontend technologies. I excel in backend development using Node.js, Express.js, and MongoDB to build robust and scalable APIs and databases. Currently expanding my proficiency in frontend development with a focus on mastering React.js for creating dynamic and interactive user interfaces.</p>
+
+
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webwithastha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=webwithastha&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -36,16 +32,33 @@
 </div>
 
 
+<br/>
+
+<h2 align="center">👩🏻‍💻Github Stats</h2>
+<br/>
+
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=webwithastha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=webwithastha&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+<br/>
 
 
-### 📫 How to reach me
+<h2 align="center">Connect me on🤝</h2>
+<br/>
 
-- LinkedIn: https://www.linkedin.com/in/astha-lodhi-266692278/
-- Email: lodhiastha85@gmail.com
+
+<div align="center">
+
+<a align="center" width="100%" href="https://linkedin.com/in/https://www.linkedin.com/in/astha-lodhi-266692278/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" 
+ height="25" /> 
+</a>
+  <a href="lodhiastha85@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  </div>
 
