@@ -1,8 +1,9 @@
-<img src="https://ik.imagekit.io/b8twhzei3r/games%20(1).gif?updatedAt=1719407676735"/>
+<img width="100%" src="https://ik.imagekit.io/b8twhzei3r/games%20(1).gif?updatedAt=1719407676735"/>
 
 ###
 
-<p align="center">A versatile developer with expertise in both backend and frontend technologies. I excel in backend development using Node.js, Express.js, and MongoDB to build robust and scalable APIs and databases. Currently expanding my proficiency in frontend development with a focus on mastering React.js for creating dynamic and interactive user interfaces.</p>
+<p align="center">I'm a web developer passionate about creating user-friendly, responsive websites. My tech stack includes HTML, CSS, JavaScript, and the MERN stack. I enjoy learning new technologies and have built various frontend clones, full-stack projects, and API-based React apps. <br/> Check out my repos to explore the code and get started! <br/>
+If you have any questions, you're always welcome to reach out ☀️.</p>
 
 
 ###
