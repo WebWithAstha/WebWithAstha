@@ -1,22 +1,9 @@
-<img width="100%" src="https://ik.imagekit.io/b8twhzei3r/games%20(1).gif?updatedAt=1719407676735"/>
-
-###
-
-<p align="center">I'm a web developer passionate about creating user-friendly, responsive websites. My tech stack includes HTML, CSS, JavaScript, and the MERN stack. I enjoy learning new technologies and have built various frontend clones, full-stack projects, and API-based React apps. <br/> Check out my repos to explore the code and get started! <br/>
-If you have any questions, you're always welcome to reach out ☀️.</p>
-
-
-###
-
+<h1 align="center">Welcome to My Profile – I'm Astha Lodhi</h1>
+ <hr/>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=webwithastha.webwithastha&left_text=Views"  />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width="100%" border="50"/>
 </div>
-
-
-
-#
-
-
+<hr/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
@@ -53,16 +40,28 @@ If you have any questions, you're always welcome to reach out ☀️.</p>
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
    <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-<img width="12" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+</div>
+<hr/>
 
+###
+
+<p align="center">I'm a web developer passionate about creating user-friendly, responsive websites. My tech stack includes HTML, CSS, JavaScript, and the MERN stack. I enjoy learning new technologies and have built various frontend clones, full-stack projects, and API-based React apps. <br/> Check out my repos to explore the code and get started! <br/>
+If you have any questions, you're always welcome to reach out ☀️.</p>
+
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=webwithastha.webwithastha&left_text=Views"  />
 </div>
 
 
-<br/>
 
-<h2 align="center">👩🏻‍💻Github Stats</h2>
-<br/>
+<hr/>
+
+<div align="center">Github Stats👩🏻‍💻</div>
 
 ###
 
@@ -71,12 +70,10 @@ If you have any questions, you're always welcome to reach out ☀️.</p>
   <img src="https://streak-stats.demolab.com?user=webwithastha&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<br/>
+<hr/>
+<div align="center">Connect me on🤝</div>
 
-
-<h2 align="center">Connect me on🤝</h2>
-<br/>
-
+###
 
 <div align="center">
 
